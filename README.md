@@ -4,7 +4,7 @@
 
 This project analyzes sales performance using Microsoft Excel to identify trends in sales, profit, targets, customers, and regional performance.
 
-## Tools Used
+## Tools & Techniques
 
 - Microsoft Excel
 - Pivot Tables
@@ -12,13 +12,13 @@ This project analyzes sales performance using Microsoft Excel to identify trends
 - Data Analysis
 - Dashboard Development
 
-## Key Analysis
+## Analysis Performed
 
 - Monthly sales and profit analysis
 - Regional sales performance
 - Target vs actual sales
-- Profit analysis
 - Customer analysis
+- Profit performance analysis
 - Sales performance tracking
 
 ## Dashboard
@@ -32,10 +32,10 @@ The project includes an interactive Excel dashboard with charts and key performa
 - Identified areas of stronger and weaker sales performance.
 - Used charts and dashboard elements to present business insights clearly.
 
-## Project File
-
-[Download Excel Dashboard](./Sales_Analysis_Dashboard.xlsx)
-
 ## Dashboard Preview
 
 ![Sales Dashboard](./Sales_Dashboard.png)
+
+## Project File
+
+[Download Excel Dashboard](./Sales_Analysis_Dashboard.xlsx)
