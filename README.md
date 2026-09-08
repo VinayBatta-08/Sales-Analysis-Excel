@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes sales performance using Microsoft Excel to identify trends in sales, profit, targets, customers, and regional performance.
+This project analyzes sales data using Microsoft Excel to understand sales, profit, customer, target, and regional performance. The main goal was to identify important trends and summarize the results through an interactive dashboard.
 
 ## Tools & Techniques
 
@@ -14,23 +14,23 @@ This project analyzes sales performance using Microsoft Excel to identify trends
 
 ## Analysis Performed
 
-- Monthly sales and profit analysis
-- Regional sales performance
-- Target vs actual sales
-- Customer analysis
-- Profit performance analysis
-- Sales performance tracking
+- Analyzed monthly sales and profit performance
+- Compared sales performance across regions
+- Compared actual sales with sales targets
+- Analyzed customer performance
+- Analyzed profit performance
+- Tracked overall sales performance
 
 ## Dashboard
 
-The project includes an interactive Excel dashboard with charts and key performance indicators to summarize sales performance.
+The Excel dashboard provides a summarized view of key performance indicators and sales trends. It uses charts and visual elements to make the analysis easier to understand.
 
 ## Key Insights
 
-- Analyzed sales and profit performance across different periods and regions.
-- Compared actual sales against sales targets.
-- Identified areas of stronger and weaker sales performance.
-- Used charts and dashboard elements to present business insights clearly.
+- Identified sales and profit trends across different periods and regions.
+- Compared actual sales performance with sales targets.
+- Identified stronger and weaker performing areas.
+- Used visualizations to present important business information clearly.
 
 ## Dashboard Preview
 
@@ -38,7 +38,7 @@ The project includes an interactive Excel dashboard with charts and key performa
 
 ## Conclusion
 
-The analysis provides a clear overview of sales, profit, customer, target, and regional performance. The Excel dashboard helps summarize key performance indicators and identify trends to support data-driven business decisions.
+The project helped me understand how Excel can be used to analyze business data, identify sales and profit trends, compare performance against targets, and present insights through an interactive dashboard.
 
 ## Project File
 
