@@ -35,3 +35,7 @@ The project includes an interactive Excel dashboard with charts and key performa
 ## Project File
 
 [Download Excel Dashboard](./Sales_Analysis_Dashboard.xlsx)
+
+## Dashboard Preview
+
+![Sales Dashboard](./Sales_Dashboard.png)
