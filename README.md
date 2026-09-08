@@ -36,6 +36,10 @@ The project includes an interactive Excel dashboard with charts and key performa
 
 ![Sales Dashboard](./Sales_Dashboard.png)
 
+## Conclusion
+
+The analysis provides a clear overview of sales, profit, customer, target, and regional performance. The Excel dashboard helps summarize key performance indicators and identify trends to support data-driven business decisions.
+
 ## Project File
 
 [Download Excel Dashboard](./Sales_Analysis_Dashboard.xlsx)
